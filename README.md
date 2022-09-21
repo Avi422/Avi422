@@ -1,7 +1,9 @@
 ###Hey there!!
-I am Abhishek Singh, currently studying Computer Engineering at the [University of Mumbai](https://mu.ac.in/).I'm an initiative-taking and enthusiastic individual with a good work ethic and quick learning abilities. Find out more about me & feel free to connect with me here:
+I am Abhishek Singh, currently studying Computer Engineering at the [University of Mumbai](https://mu.ac.in/). I'm an initiative-taking and enthusiastic individual with a good work ethic and quick learning abilities. Find out more about me & feel free to connect with me here:
+
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/avi_singh422)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/LinkedIn/in/)](https://www.linkedin.com/in/avi-singh422)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:avi040202@gmail.com)
 
 
 ##Technical Skills⚡
