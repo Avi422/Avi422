@@ -4,7 +4,7 @@ I am Abhishek Singh, currently studying Computer Engineering at the [University 
 (https://www.instagram.com/avi_singh422)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/LinkedIn/in/)](https://www.linkedin.com/in/avi-singh422)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:avi040202@gmail.com)]
-
+(mailto:avi040202@gmail.com)
 ##Technical Skills⚡
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
