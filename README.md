@@ -1,4 +1,4 @@
-[!MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://Avi422.io)
+[!MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://avi422.io)
 <h1 align="center">Hey there!👋 I am Abhishek Singh</h1>
 <h4 align="left">I'm a 20-year-old undergrad, and I am a big fan of Web Development and Open Source. I'm an initiative-taking and enthusiastic individual with a good work ethic and quick learning abilities.</h4>
 <img align="right" alt="Coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg">
@@ -24,6 +24,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/avi-singh422" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avi-singh422" height="30" width="40" /></a>
 <a href="https://instagram.com/avi_singh422" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avi_singh422" height="30" width="40" /></a>
+ <a href="mailto:avi040202@gmail.com?subject=Hello%20Abhishek,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;  
 </p>
 
 <h2 align="center"> 🔭 Technology Stack</h2>
