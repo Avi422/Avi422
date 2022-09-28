@@ -8,7 +8,7 @@
 
 <p align="center">
 
-- 📃 My Resume as of September 2022 - <a href = "###">Resume update coming</a>
+- 📃 My Resume as of September 2022 - <a href = "https://resume.io/r/XbG4oMSh6">Resume</a>
 
 - 🔭 I’m currently working on **C++ and DSA**
 
